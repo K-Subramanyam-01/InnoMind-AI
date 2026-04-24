@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 ---
-
+ Live Demo → https://innomind-ai.vercel.app/
 ## 📌 Overview
 
 **InnoMind AI** is a full-stack Innovation Management Platform that helps organizations move from guesswork to data-driven decision-making. It evaluates ideas in real time using AI, facilitates multi-perspective debates through autonomous AI agents, and automatically generates investor-ready pitch decks.
